@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <UTJ.MyAssetPreview assetPath="Assets/Editor/Samples/005/MyPrefab.prefab" class="fullrect">
+        <Style src="CustomElementSample.uss" />
+    </UTJ.MyAssetPreview>
+</ui:UXML>
